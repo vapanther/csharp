@@ -1,0 +1,10 @@
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\bin\Release\DatabaseApplicationCodeFirstApproch.exe.config
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\bin\Release\DatabaseApplicationCodeFirstApproch.exe
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\bin\Release\DatabaseApplicationCodeFirstApproch.pdb
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\bin\Release\EntityFramework.dll
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\bin\Release\EntityFramework.xml
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\obj\Release\DatabaseApplicationCodeFirstApproch.csproj.CoreCompileInputs.cache
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\obj\Release\DatabaseApplicationCodeFirstApproch.exe
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationCodeFirstApproch\obj\Release\DatabaseApplicationCodeFirstApproch.pdb

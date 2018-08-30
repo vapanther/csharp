@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ModelFirst.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ModelFirstStoreContainer">
+    <EntitySet Name="Deparments" EntityType="ModelFirst.Store.Deparments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Employees" EntityType="ModelFirst.Store.Employees" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="DeparmentEmployee" Association="ModelFirst.Store.DeparmentEmployee">
+      <End Role="Deparment" EntitySet="Deparments" />
+      <End Role="Employee" EntitySet="Employees" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Deparments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Location" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Gender" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Salary" Type="int" Nullable="false" />
+    <Property Name="DeparmentId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="DeparmentEmployee">
+    <End Role="Deparment" Type="ModelFirst.Store.Deparments" Multiplicity="1" />
+    <End Role="Employee" Type="ModelFirst.Store.Employees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Deparment">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="DeparmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

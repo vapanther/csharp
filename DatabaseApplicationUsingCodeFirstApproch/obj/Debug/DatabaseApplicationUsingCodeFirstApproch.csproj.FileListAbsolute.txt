@@ -1,0 +1,11 @@
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\bin\Debug\DatabaseApplicationUsingCodeFirstApproch.exe.config
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\bin\Debug\DatabaseApplicationUsingCodeFirstApproch.exe
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\bin\Debug\DatabaseApplicationUsingCodeFirstApproch.pdb
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\bin\Debug\EntityFramework.dll
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\bin\Debug\EntityFramework.xml
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\obj\Debug\DatabaseApplicationUsingCodeFirstApproch.csprojResolveAssemblyReference.cache
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\obj\Debug\DatabaseApplicationUsingCodeFirstApproch.csproj.CoreCompileInputs.cache
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\obj\Debug\DatabaseApplicationUsingCodeFirstApproch.exe
+C:\Users\ankit.tripathi\source\repos\DatabaseApplicationUsingCodeFirstApproch\obj\Debug\DatabaseApplicationUsingCodeFirstApproch.pdb

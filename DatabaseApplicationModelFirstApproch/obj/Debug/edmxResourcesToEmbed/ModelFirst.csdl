@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ModelFirst" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ModelFirstContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Deparments" EntityType="ModelFirst.Deparment" />
+    <EntitySet Name="Employees" EntityType="ModelFirst.Employee" />
+    <AssociationSet Name="DeparmentEmployee" Association="ModelFirst.DeparmentEmployee">
+      <End Role="Deparment" EntitySet="Deparments" />
+      <End Role="Employee" EntitySet="Employees" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Deparment">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Location" Type="String" Nullable="false" />
+    <NavigationProperty Name="Employees" Relationship="ModelFirst.DeparmentEmployee" FromRole="Deparment" ToRole="Employee" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" />
+    <Property Name="LastName" Type="String" Nullable="false" />
+    <Property Name="Gender" Type="String" Nullable="false" />
+    <Property Name="Salary" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Deparment" Relationship="ModelFirst.DeparmentEmployee" FromRole="Employee" ToRole="Deparment" />
+    <Property Name="DeparmentId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="DeparmentEmployee">
+    <End Type="ModelFirst.Deparment" Role="Deparment" Multiplicity="1" />
+    <End Type="ModelFirst.Employee" Role="Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Deparment">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="DeparmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
