@@ -1,0 +1,11 @@
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\bin\Debug\DBLayer.dll.config
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\bin\Debug\DBLayer.dll
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\bin\Debug\DBLayer.pdb
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\bin\Debug\EntityFramework.dll
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\bin\Debug\EntityFramework.xml
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\obj\Debug\DBLayer.csproj.CoreCompileInputs.cache
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\obj\Debug\DBLayer.csproj.CopyComplete
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\obj\Debug\DBLayer.dll
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\DBLayer\obj\Debug\DBLayer.pdb

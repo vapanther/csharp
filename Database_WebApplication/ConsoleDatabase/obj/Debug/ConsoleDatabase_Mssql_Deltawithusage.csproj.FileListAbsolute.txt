@@ -1,0 +1,21 @@
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\bin\Debug\ConsoleDatabase_Mssql_Deltawithusage.exe.config
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\bin\Debug\ConsoleDatabase_Mssql_Deltawithusage.exe
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\bin\Debug\ConsoleDatabase_Mssql_Deltawithusage.pdb
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\bin\Debug\EntityFramework.dll
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\bin\Debug\EntityFramework.xml
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\obj\Debug\ConsoleDatabase_Mssql_Deltawithusage.csprojResolveAssemblyReference.cache
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\obj\Debug\ConsoleDatabase_Mssql_Deltawithusage.exe
+c:\users\ankit.tripathi\documents\visual studio 2013\Projects\ConsoleDatabase_Mssql_Deltawithusage\obj\Debug\ConsoleDatabase_Mssql_Deltawithusage.pdb
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\bin\Debug\ConsoleDatabase_Mssql_Deltawithusage.dll.config
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\bin\Debug\ConsoleDatabase_Mssql_Deltawithusage.dll
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\bin\Debug\ConsoleDatabase_Mssql_Deltawithusage.pdb
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\bin\Debug\EntityFramework.dll
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\bin\Debug\EntityFramework.xml
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\obj\Debug\ConsoleDatabase_Mssql_Deltawithusage.csproj.CoreCompileInputs.cache
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\obj\Debug\ConsoleDatabase_Mssql_Deltawithusage.csproj.CopyComplete
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\obj\Debug\ConsoleDatabase_Mssql_Deltawithusage.dll
+C:\Users\ankit.tripathi\source\repos\Database_WebApplication\ConsoleDatabase\obj\Debug\ConsoleDatabase_Mssql_Deltawithusage.pdb
