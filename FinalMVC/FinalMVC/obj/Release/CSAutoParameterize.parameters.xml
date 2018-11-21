@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Cross18Entities-Web.config Connection String" description="Cross18Entities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Employee.csdl|res://*/Employee.ssdl|res://*/Employee.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=ec2-34-221-2-224.us-west-2.compute.amazonaws.com;initial catalog=Cross18;user id=sa;password=sa@123456;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ankit\.tripathi\\source\\repos\\ec2\\FinalMVC\\FinalMVC\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Cross18Entities']/@connectionString" />
+  </parameter>
+</parameters>
