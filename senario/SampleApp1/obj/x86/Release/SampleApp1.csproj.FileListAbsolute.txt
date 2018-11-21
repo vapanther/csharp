@@ -1,0 +1,8 @@
+F:\CrossCode\Project\DotNETPlugin\DotNETAPIPlugin\Release\SampleApp1New.exe.config
+F:\CrossCode\Project\DotNETPlugin\DotNETAPIPlugin\Release\SampleApp1New.exe
+F:\CrossCode\Project\DotNETPlugin\DotNETAPIPlugin\Release\SampleApp1New.pdb
+F:\CrossCode\Project\DotNETPlugin\DotNETAPIPlugin\SampleApp1\obj\x86\Release\SampleApp1.csproj.App.config
+F:\CrossCode\Project\DotNETPlugin\DotNETAPIPlugin\SampleApp1\obj\x86\Release\SampleApp1.csproj.CoreCompileInputs.cache
+F:\CrossCode\Project\DotNETPlugin\DotNETAPIPlugin\SampleApp1\obj\x86\Release\SampleApp1.csproj.CopyComplete
+F:\CrossCode\Project\DotNETPlugin\DotNETAPIPlugin\SampleApp1\obj\x86\Release\SampleApp1New.exe
+F:\CrossCode\Project\DotNETPlugin\DotNETAPIPlugin\SampleApp1\obj\x86\Release\SampleApp1New.pdb

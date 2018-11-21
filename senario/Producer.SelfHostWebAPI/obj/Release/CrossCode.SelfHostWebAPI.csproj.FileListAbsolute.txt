@@ -1,0 +1,37 @@
+F:\CrossCode\Sample Application\httpSampleLab\Producer.SelfHostWebAPI\obj\Release\CrossCode.SelfHostWebAPI.csproj.CoreCompileInputs.cache
+F:\CrossCode\Sample Application\httpSampleLab\Producer.SelfHostWebAPI\bin\Release\Producer.WebAPI.exe.config
+F:\CrossCode\Sample Application\httpSampleLab\Producer.SelfHostWebAPI\bin\Release\Producer.WebAPI.exe
+F:\CrossCode\Sample Application\httpSampleLab\Producer.SelfHostWebAPI\bin\Release\Producer.WebAPI.pdb
+F:\CrossCode\Sample Application\httpSampleLab\Producer.SelfHostWebAPI\obj\Release\CrossCode.SelfHostWebAPI.csproj.CopyComplete
+F:\CrossCode\Sample Application\httpSampleLab\Producer.SelfHostWebAPI\obj\Release\Producer.WebAPI.exe
+F:\CrossCode\Sample Application\httpSampleLab\Producer.SelfHostWebAPI\obj\Release\Producer.WebAPI.pdb
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\Producer.WebAPI.exe.config
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\Producer.WebAPI.exe
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\Producer.WebAPI.pdb
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\Newtonsoft.Json.dll
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\System.Net.Http.Formatting.dll
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\System.Web.Http.dll
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\System.Web.Http.SelfHost.dll
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\System.Net.Http.Formatting.xml
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\System.Web.Http.xml
+F:\13Nov\Producer.SelfHostWebAPI\bin\Release\System.Web.Http.SelfHost.xml
+F:\13Nov\Producer.SelfHostWebAPI\obj\Release\CrossCode.SelfHostWebAPI.csprojAssemblyReference.cache
+F:\13Nov\Producer.SelfHostWebAPI\obj\Release\CrossCode.SelfHostWebAPI.csproj.CoreCompileInputs.cache
+F:\13Nov\Producer.SelfHostWebAPI\obj\Release\CrossCode.SelfHostWebAPI.csproj.CopyComplete
+F:\13Nov\Producer.SelfHostWebAPI\obj\Release\Producer.WebAPI.exe
+F:\13Nov\Producer.SelfHostWebAPI\obj\Release\Producer.WebAPI.pdb
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\Producer.WebAPI.exe.config
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\Producer.WebAPI.exe
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\Producer.WebAPI.pdb
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\Newtonsoft.Json.dll
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\System.Net.Http.Formatting.dll
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\System.Web.Http.dll
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\System.Web.Http.SelfHost.dll
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\System.Net.Http.Formatting.xml
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\System.Web.Http.xml
+F:\13Nov\senario\Producer.SelfHostWebAPI\bin\Release\System.Web.Http.SelfHost.xml
+F:\13Nov\senario\Producer.SelfHostWebAPI\obj\Release\CrossCode.SelfHostWebAPI.csprojAssemblyReference.cache
+F:\13Nov\senario\Producer.SelfHostWebAPI\obj\Release\CrossCode.SelfHostWebAPI.csproj.CoreCompileInputs.cache
+F:\13Nov\senario\Producer.SelfHostWebAPI\obj\Release\CrossCode.SelfHostWebAPI.csproj.CopyComplete
+F:\13Nov\senario\Producer.SelfHostWebAPI\obj\Release\Producer.WebAPI.exe
+F:\13Nov\senario\Producer.SelfHostWebAPI\obj\Release\Producer.WebAPI.pdb

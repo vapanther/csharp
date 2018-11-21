@@ -1,0 +1,36 @@
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\SampleApp1.exe.config
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\SampleApp1.exe
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\SampleApp1.pdb
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\Newtonsoft.Json.dll
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\System.Net.Http.dll
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\System.Net.Http.Extensions.dll
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\System.Net.Http.Primitives.dll
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\System.Net.Http.WebRequest.dll
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\Newtonsoft.Json.xml
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\System.Net.Http.xml
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\System.Net.Http.Extensions.xml
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\System.Net.Http.Primitives.xml
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\bin\Release\System.Net.Http.WebRequest.xml
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\obj\Release\SampleApp1.csproj.CoreCompileInputs.cache
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\obj\Release\SampleApp1.csproj.CopyComplete
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\obj\Release\SampleApp1.exe
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\obj\Release\SampleApp1.pdb
+F:\CrossCode\Sample Application\httpSampleLab\SampleApp1\obj\Release\SampleApp1.csprojAssemblyReference.cache
+F:\13Nov\SampleApp1\bin\Release\SampleApp1.exe.config
+F:\13Nov\SampleApp1\bin\Release\SampleApp1.exe
+F:\13Nov\SampleApp1\bin\Release\SampleApp1.pdb
+F:\13Nov\SampleApp1\bin\Release\Newtonsoft.Json.dll
+F:\13Nov\SampleApp1\bin\Release\System.Net.Http.dll
+F:\13Nov\SampleApp1\bin\Release\System.Net.Http.Extensions.dll
+F:\13Nov\SampleApp1\bin\Release\System.Net.Http.Primitives.dll
+F:\13Nov\SampleApp1\bin\Release\System.Net.Http.WebRequest.dll
+F:\13Nov\SampleApp1\bin\Release\Newtonsoft.Json.xml
+F:\13Nov\SampleApp1\bin\Release\System.Net.Http.xml
+F:\13Nov\SampleApp1\bin\Release\System.Net.Http.Extensions.xml
+F:\13Nov\SampleApp1\bin\Release\System.Net.Http.Primitives.xml
+F:\13Nov\SampleApp1\bin\Release\System.Net.Http.WebRequest.xml
+F:\13Nov\SampleApp1\obj\Release\SampleApp1.csprojAssemblyReference.cache
+F:\13Nov\SampleApp1\obj\Release\SampleApp1.csproj.CoreCompileInputs.cache
+F:\13Nov\SampleApp1\obj\Release\SampleApp1.csproj.CopyComplete
+F:\13Nov\SampleApp1\obj\Release\SampleApp1.exe
+F:\13Nov\SampleApp1\obj\Release\SampleApp1.pdb

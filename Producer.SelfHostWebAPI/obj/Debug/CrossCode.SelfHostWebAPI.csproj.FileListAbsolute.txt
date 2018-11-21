@@ -1,0 +1,100 @@
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csproj.App.config
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csprojAssemblyReference.cache
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csproj.CoreCompileInputs.cache
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.SelfHostWebAPI.exe.config
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.SelfHostWebAPI.exe
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.SelfHostWebAPI.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\AttributeRouting.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\AttributeRouting.Web.Http.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\AttributeRouting.Web.Http.SelfHost.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.BLL.Domain.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.DB.Connoisseur.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Helper.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Inegration.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.log.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Utilities.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCodeNETCSPlugin.exe
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\Newtonsoft.Json.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\PluginAPIFacade.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.IO.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.Extensions.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.Formatting.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.Primitives.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.WebRequest.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Runtime.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Threading.Tasks.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Web.Http.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Web.Http.SelfHost.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\WebActivator.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.BLL.Dependency.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Integration.DTO.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.BLL.Utility.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\log4net.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\OSProcessReader.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.BLL.Decomposition.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.MEF.Container.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.CILReader.dll
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.BLL.Domain.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.DB.Connoisseur.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Helper.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Helper.dll.config
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Inegration.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.log.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.log.dll.config
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Utilities.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Utilities.dll.config
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCodeNETCSPlugin.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCodeNETCSPlugin.exe.config
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\PluginAPIFacade.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\PluginAPIFacade.dll.config
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\AttributeRouting.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\AttributeRouting.Web.Http.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\AttributeRouting.Web.Http.SelfHost.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\Newtonsoft.Json.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.IO.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.Extensions.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.Formatting.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.Primitives.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Net.Http.WebRequest.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Runtime.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Threading.Tasks.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Web.Http.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\System.Web.Http.SelfHost.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\WebActivator.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.BLL.Dependency.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.Integration.DTO.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.BLL.Utility.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\log4net.xml
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\OSProcessReader.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.BLL.Decomposition.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.MEF.Container.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\bin\Debug\CrossCode.CILReader.pdb
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csproj.CopyComplete
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.exe
+F:\CrossCode\Project\crosscodenetcsplugin\CrossCode.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.pdb
+F:\CrossCode\Sample Application\Producer.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csproj.CoreCompileInputs.cache
+F:\CrossCode\Sample Application\Producer.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csproj.CopyComplete
+F:\CrossCode\Sample Application\Producer.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csprojAssemblyReference.cache
+F:\CrossCode\Sample Application\Producer.SelfHostWebAPI\bin\Debug\Producer.SelfHostWebAPI.exe
+F:\CrossCode\Sample Application\Producer.SelfHostWebAPI\bin\Debug\Producer.WebAPI.exe.config
+F:\CrossCode\Sample Application\Producer.SelfHostWebAPI\bin\Debug\Producer.WebAPI.exe
+F:\CrossCode\Sample Application\Producer.SelfHostWebAPI\bin\Debug\Producer.WebAPI.pdb
+F:\CrossCode\Sample Application\Producer.SelfHostWebAPI\obj\Debug\Producer.WebAPI.exe
+F:\CrossCode\Sample Application\Producer.SelfHostWebAPI\obj\Debug\Producer.WebAPI.pdb
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\Producer.WebAPI.exe.config
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\Producer.WebAPI.exe
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\Producer.WebAPI.pdb
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\Newtonsoft.Json.dll
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\System.Net.Http.Formatting.dll
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\System.Web.Http.dll
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\System.Web.Http.SelfHost.dll
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\System.Net.Http.Formatting.xml
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\System.Web.Http.xml
+F:\13Nov\Producer.SelfHostWebAPI\bin\Debug\System.Web.Http.SelfHost.xml
+F:\13Nov\Producer.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csproj.CoreCompileInputs.cache
+F:\13Nov\Producer.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csproj.CopyComplete
+F:\13Nov\Producer.SelfHostWebAPI\obj\Debug\Producer.WebAPI.exe
+F:\13Nov\Producer.SelfHostWebAPI\obj\Debug\Producer.WebAPI.pdb
+F:\13Nov\Producer.SelfHostWebAPI\obj\Debug\CrossCode.SelfHostWebAPI.csprojAssemblyReference.cache
