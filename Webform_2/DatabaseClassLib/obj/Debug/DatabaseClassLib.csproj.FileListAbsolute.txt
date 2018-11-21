@@ -1,0 +1,12 @@
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\bin\Debug\DatabaseClassLib.dll.config
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\bin\Debug\DatabaseClassLib.dll
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\bin\Debug\DatabaseClassLib.pdb
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\bin\Debug\EntityFramework.dll
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\bin\Debug\EntityFramework.xml
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\obj\Debug\DatabaseClassLib.csprojAssemblyReference.cache
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\obj\Debug\DatabaseClassLib.csproj.CoreCompileInputs.cache
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\obj\Debug\DatabaseClassLib.csproj.CopyComplete
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\obj\Debug\DatabaseClassLib.dll
+C:\Users\ankit.tripathi\source\repos\Webform_2\DatabaseClassLib\obj\Debug\DatabaseClassLib.pdb
